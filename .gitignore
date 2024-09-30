@@ -1,0 +1,48 @@
+
+__pycache__/
+*.pyc
+*.pyo
+
+
+.env
+*.env
+
+venv/
+env/
+.venv/
+
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+
+*.log
+
+
+*.tmp
+*.temp
+
+
+*.sqlite3
+*.db
+
+
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore environment variables
+.env
+
+# Ignore IDE configurations
+.vscode/
+.idea/
+
+# Ignore other temporary files
+*.log
+*.tmp
